@@ -1,0 +1,2 @@
+# aluraflix
+pensamento computacional
